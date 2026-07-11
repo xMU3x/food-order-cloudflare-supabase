@@ -1,0 +1,12 @@
+{
+  "name": "food-order",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Food order app - Cloudflare Pages + Supabase",
+  "scripts": {
+    "build": "echo 'No build step needed'"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
